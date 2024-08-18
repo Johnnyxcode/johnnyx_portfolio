@@ -9,91 +9,90 @@
 
 /* 1. Theme Blue */
 a:hover {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .header .logo {
-	background: #5ac24e;
+  background: #3dbcf3;
 }
 
 .header .top-menu ul li.active a {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .header .top-menu ul li.active a .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .header .social a:hover .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .card-inner .card-wrap .title span {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .content.inner-top .text p strong {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .content.inner-top .circle-bts a:hover .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .content.inner-top .circle-bts a:hover span {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .service-items .service-item .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .pricing-items .pricing-item .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .pricing-items .pricing-item .feature-list ul li strong {
-	background: #5ac24e;
+  background: #3dbcf3;
 }
 
 .pricing-items .pricing-item .lnks .lnk span {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .fuct-items .fuct-item .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .resume-items .resume-item.active .date {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .skills-list ul li .progress .percentage {
-	background: #5ac24e;
+  background: #3dbcf3;
 }
 
 .content.works .filter-menu .f_btn.active {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .box-item .image .info:before,
 .box-item .image .info:after {
-	background: #5ac24e;
+  background: #3dbcf3;
 }
 
 .contacts-items .contacts-item .icon {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
 
 .post-box .blog-content blockquote {
-	border-left-color: #5ac24e;
+  border-left-color: #3dbcf3;
 }
 
 .post-box .blog-content ul.list-style li:before {
-	background: #5ac24e;
+  background: #3dbcf3;
 }
 
 .post-box .post-comments li .comment-info .name h6 {
-	color: #5ac24e;
+  color: #3dbcf3;
 }
-

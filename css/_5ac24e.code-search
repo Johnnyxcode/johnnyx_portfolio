@@ -1,0 +1,54 @@
+# Query: #5ac24e
+
+31 results - 10 files
+
+index.html:
+  86:                   style="background-color: #3054d4"
+
+bslthemes.com\html\patrick\blog-post-rtl.html:
+  65:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\blog-post.html:
+  62:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\blog-rtl.html:
+  65:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\blog.html:
+  62:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\index-bgcolor.html:
+  63:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\index-particles.html:
+  64:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\index-rtl.html:
+  65:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+bslthemes.com\html\patrick\index-video.html:
+  64:                             <a title="theme-green" href="#" data-color="green" style="background-color: #3054d4;"></a>
+
+css\theme-colors\green.css:
+  12: 	color: #3054d4;
+  16: 	background: #3054d4;
+  20: 	color: #3054d4;
+  24: 	color: #3054d4;
+  28: 	color: #3054d4;
+  32: 	color: #3054d4;
+  36: 	color: #3054d4;
+  40: 	color: #3054d4;
+  44: 	color: #3054d4;
+  48: 	color: #3054d4;
+  52: 	color: #3054d4;
+  56: 	background: #3054d4;
+  60: 	color: #3054d4;
+  64: 	color: #3054d4;
+  68: 	color: #3054d4;
+  72: 	background: #3054d4;
+  76: 	color: #3054d4;
+  81: 	background: #3054d4;
+  85: 	color: #3054d4;
+  89: 	border-left-color: #3054d4;
+  93: 	background: #3054d4;
+  97: 	color: #3054d4;
